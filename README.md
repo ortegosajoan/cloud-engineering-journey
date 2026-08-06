@@ -6,8 +6,7 @@
 ## Tecnologías Utilizadas
 
 * **AWS** (Cloud Provider)
-* **LocalStack** (Emulación local de AWS)
-* **Docker & Docker Compose** (Contenerización)
+* **AWS Skill Builder** (Formación oficial — curso AWS Cloud Practitioner Essentials)
  
 ## Ruta de Módulos
 
