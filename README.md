@@ -27,6 +27,17 @@
 | 12 | Migración a la nube de AWS | ⬜ Pendiente |
 | 13 | Soluciones de Well-Architected | ⬜ Pendiente |
 
+| 13 | Soluciones de Well-Architected | ⬜ Pendiente |
+
+### 🔄 Módulo en progreso
+
+**Módulo 1: Introducción a la nube**
+- ¿Qué es la computación en la nube?
+- Beneficios de la nube de AWS
+- Introducción a la infraestructura global de AWS
+- El modelo de responsabilidad compartida de AWS
+- Aplicación de los conceptos de la nube a casos prácticos reales
+
 ### 📖 Detalle de módulos completados
 
 **Módulo 2: Computación en la nube**
