@@ -1,5 +1,6 @@
 # AWS Cloud Practitioner Essentials — Mi Journey
-**Nombre:** Joel Ortegosa 
+
+**Nombre:** Joel Ortegosa
 
 *Documentando mi camino de Técnico en Informática hacia Cloud Engineer.*
 
@@ -7,7 +8,7 @@
 
 * **AWS** (Cloud Provider)
 * **AWS Skill Builder** (Formación oficial — curso AWS Cloud Practitioner Essentials)
- 
+
 ## Ruta de Módulos
 
 | Módulo | Tema | Estado |
@@ -25,3 +26,15 @@
 | 11 | Precios y soporte | ⬜ Pendiente |
 | 12 | Migración a la nube de AWS | ⬜ Pendiente |
 | 13 | Soluciones de Well-Architected | ⬜ Pendiente |
+
+### 📖 Detalle de módulos completados
+
+**Módulo 2: Computación en la nube**
+- Introducción a Amazon EC2
+- Tipos de instancias de Amazon EC2
+- Cómo aprovisionar recursos de AWS
+- Demostración: inicio de una instancia de Amazon EC2
+- Precios de Amazon EC2
+- Escalado de Amazon EC2 (Auto Scaling)
+- Dirección de tráfico con Elastic Load Balancing
+- Mensajería y colas
