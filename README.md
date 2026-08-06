@@ -27,8 +27,6 @@
 | 12 | Migración a la nube de AWS | ⬜ Pendiente |
 | 13 | Soluciones de Well-Architected | ⬜ Pendiente |
 
-| 13 | Soluciones de Well-Architected | ⬜ Pendiente |
-
 ### 🔄 Módulo en progreso
 
 **Módulo 1: Introducción a la nube**
