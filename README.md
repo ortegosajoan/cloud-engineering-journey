@@ -48,9 +48,7 @@
 
 ### 🔄 Módulo en progreso
 
-**Módulo 4: Infraestructura Global de AWS**
-- Introducción a la expansión global
-- Infraestructura Global de AWS
-- Selección de las regiones de AWS
-- Profundización en la infraestructura global de AWS
-- Infraestructura y automatización
+**Módulo 3: Exploración de los servicios de computación**
+- AWS Lambda
+- Contenedores y orquestación en AWS
+- Servicios de computación adicionales
