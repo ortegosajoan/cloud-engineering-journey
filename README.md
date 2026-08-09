@@ -13,9 +13,9 @@
 
 | Módulo | Tema | Estado |
 |--------|------|--------|
-| 01 | Introducción a la nube | ⏳ En progreso |
+| 01 | Introducción a la nube | ✅ Completado  |
 | 02 | Computación en la nube | ✅ Completado |
-| 03 | Exploración de los servicios de computación | ⬜ Pendiente |
+| 03 | Exploración de los servicios de computación | ⏳ En progreso  |
 | 04 | Expansión global | ⬜ Pendiente |
 | 05 | Creación de redes | ⬜ Pendiente |
 | 06 | Almacenamiento | ⬜ Pendiente |
