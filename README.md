@@ -27,7 +27,7 @@
 | 12 | Migración a la nube de AWS | ⬜ Pendiente |
 | 13 | Soluciones de Well-Architected | ⬜ Pendiente |
 
-### 🔄 Módulo en progreso
+### 📖 Detalle de módulos completados
 
 **Módulo 1: Introducción a la nube**
 - ¿Qué es la computación en la nube?
@@ -35,8 +35,6 @@
 - Introducción a la infraestructura global de AWS
 - El modelo de responsabilidad compartida de AWS
 - Aplicación de los conceptos de la nube a casos prácticos reales
-
-### 📖 Detalle de módulos completados
 
 **Módulo 2: Computación en la nube**
 - Introducción a Amazon EC2
@@ -47,3 +45,12 @@
 - Escalado de Amazon EC2 (Auto Scaling)
 - Dirección de tráfico con Elastic Load Balancing
 - Mensajería y colas
+
+### 🔄 Módulo en progreso
+
+**Módulo 4: Infraestructura Global de AWS**
+- Introducción a la expansión global
+- Infraestructura Global de AWS
+- Selección de las regiones de AWS
+- Profundización en la infraestructura global de AWS
+- Infraestructura y automatización
