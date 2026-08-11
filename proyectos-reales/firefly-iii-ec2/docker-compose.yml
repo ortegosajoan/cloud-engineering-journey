@@ -1,1 +1,35 @@
 
+# docker-compose.yml
+# Firefly III en AWS EC2 — versión de ejemplo (sin credenciales reales)
+
+services:
+  db:
+    image: mariadb:10.11
+    container_name: firefly_db
+    restart: always
+    environment:
+      MYSQL_RANDOM_ROOT_PASSWORD: "yes"
+      MYSQL_DATABASE: firefly
+      MYSQL_USER: firefly
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - ./firefly_db:/var/lib/mysql
+
+  app:
+    image: fireflyiii/core:latest
+    container_name: firefly_iii
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      APP_KEY: ${APP_KEY}
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_CONNECTION: mysql
+      DB_DATABASE: firefly
+      DB_USERNAME: firefly
+      DB_PASSWORD: ${DB_PASSWORD}
+      APP_URL: https://firefly.noelmarkets.com
+      TZ: America/Caracas
+    depends_on:
+      - db
