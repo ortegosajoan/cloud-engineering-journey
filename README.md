@@ -46,13 +46,14 @@
 - Dirección de tráfico con Elastic Load Balancing
 - Mensajería y colas
 
-**Módulo 3: Contenedores Y Servicios sin servidor de AWS Lambda**
+**Módulo 3: Exploración de los servicios de computación**
+- AWS Lambda
 - Contenedores y orquestación en AWS
 - Servicios de computación adicionales
 
 ### 🔄 Módulo en progreso
 
-**Módulo 3: Exploración de los servicios de computación**
-- AWS Lambda
-- Contenedores y orquestación en AWS
-- Servicios de computación adicionales
+**Módulo 4: INFRAESTRUCTURA GLOBAL DE AWS**
+- Selección de las regiones de AWS
+- Profundización en la infraestructura global de AWS
+- Infraestructura y automatización
