@@ -15,8 +15,8 @@
 |--------|------|--------|
 | 01 | Introducción a la nube | ✅ Completado  |
 | 02 | Computación en la nube | ✅ Completado |
-| 03 | Exploración de los servicios de computación | ⏳ En progreso  |
-| 04 | Expansión global | ⬜ Pendiente |
+| 03 | Exploración de los servicios de computación | ✅ Completado  |
+| 04 | Expansión global | ⏳ En progreso  |
 | 05 | Creación de redes | ⬜ Pendiente |
 | 06 | Almacenamiento | ⬜ Pendiente |
 | 07 | Bases de datos | ⬜ Pendiente |
