@@ -16,8 +16,8 @@
 | 01 | Introducción a la nube | ✅ Completado  |
 | 02 | Computación en la nube | ✅ Completado |
 | 03 | Exploración de los servicios de computación | ✅ Completado  |
-| 04 | Expansión global | ⏳ En progreso  |
-| 05 | Creación de redes | ⬜ Pendiente |
+| 04 | Expansión global | ✅ Completado |
+| 05 | Creación de redes | ⏳ En progreso |
 | 06 | Almacenamiento | ⬜ Pendiente |
 | 07 | Bases de datos | ⬜ Pendiente |
 | 08 | IA/ML y análisis de datos | ⬜ Pendiente |
@@ -51,9 +51,15 @@
 - Contenedores y orquestación en AWS
 - Servicios de computación adicionales
 
-### 🔄 Módulo en progreso
-
 **Módulo 4: INFRAESTRUCTURA GLOBAL DE AWS**
 - Selección de las regiones de AWS
 - Profundización en la infraestructura global de AWS
 - Infraestructura y automatización
+
+### 🔄 Módulo en progreso
+
+**Módulo 5: Creación de redes**
+- Organización de los recursos en la nube de AWS
+- Más formas de conectarse a la nube de AWS
+- Sub-redes, grupos de seguridad y listas de control de acceso a la red
+- Demostración de Amazon VPC
